@@ -14,6 +14,7 @@ namespace GITHelloWorld
             Console.WriteLine("Привет всем");
             Console.WriteLine("Привет каждому");
             Console.WriteLine("Привет Андрей");
+            Console.WriteLine("Привет продвинутое");
             Console.ReadLine();
         }
     }
