@@ -1,7 +1,0 @@
-D:\! GitHub\GitHubRepo\GITHelloWorld\bin\Debug\GITHelloWorld.exe.config
-D:\! GitHub\GitHubRepo\GITHelloWorld\bin\Debug\GITHelloWorld.exe
-D:\! GitHub\GitHubRepo\GITHelloWorld\bin\Debug\GITHelloWorld.pdb
-D:\! GitHub\GitHubRepo\GITHelloWorld\obj\Debug\GITHelloWorld.csprojAssemblyReference.cache
-D:\! GitHub\GitHubRepo\GITHelloWorld\obj\Debug\GITHelloWorld.csproj.CoreCompileInputs.cache
-D:\! GitHub\GitHubRepo\GITHelloWorld\obj\Debug\GITHelloWorld.exe
-D:\! GitHub\GitHubRepo\GITHelloWorld\obj\Debug\GITHelloWorld.pdb
